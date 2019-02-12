@@ -3,3 +3,4 @@ echo $name
 if name =$name
 then echo "You are the superuser"
 else "you are not authorized on this system"
+done
